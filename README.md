@@ -28,9 +28,9 @@ This is the offline interface of
 
 # What I Learned From This Youtube Project
 
-. I learned how to use ajax to send a http request by XMLHttprequest.
-. I cleared about function.
-. I cleared got a unique idea that how to use status code in many different way. 
+1. I learned how to use ajax to send a http request by XMLHttprequest.
+2. I cleared about function.
+3. I cleared got a unique idea that how to use status code in many different way. 
 
 
 ### In future gonna learn more things inshallah. Thanks for read my project description
